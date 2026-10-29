@@ -1,0 +1,847 @@
+[
+  {
+    "enabled": true,
+    "slug": "halloween-event",
+    "pageType": "updates",
+    "navLabel": "Halloween Event",
+    "title": "Steal A Pet And Ride It Halloween Event & Part 2",
+    "description": "Steal A Pet And Ride It Halloween event guide: check the Part 2 start time, end date, announced features, and verified updates in Roblox.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Roblox player guide · checked October 29, 2026",
+      "heading": "Steal A Pet And Ride It Halloween Event Guide",
+      "lead": "As checked October 29, 2026, the Halloween Update is listed as active. Halloween Part 2 is scheduled for Saturday, October 31 at 15:00 UTC; the listed event window ends November 8 at 15:00 UTC. This is a scheduled release, not a guarantee your server already has every feature."
+    },
+    "sections": [
+      {
+        "id": "times",
+        "heading": "Halloween Part 2 Start Time and Time Zones",
+        "intro": "Halloween Part 2 is scheduled for 2026-10-31 15:00 UTC. The calendar also lists November 8, 2026 15:00 UTC as the end of the Halloween event window. All local start times below come from the single UTC timestamp; New York changes from daylight time to standard time before the listed end.",
+        "subsections": [
+          {
+            "heading": "Confirmed Schedule vs. Possible Changes",
+            "paragraphs": [
+              "The event listing contains a developer-scheduled Part 2 start time; treat it as scheduled until it actually begins. A calendar entry does not prove a new portal is usable in every Roblox server, and start times or content may change. Refresh the official event card before traveling or setting reminders."
+            ]
+          },
+          {
+            "heading": "Local Times for Players",
+            "paragraphs": [
+              "On October 31, 15:00 UTC corresponds to 11:00 a.m. in New York (EDT), 3:00 p.m. in London (GMT), 8:30 p.m. in India (IST), 11:00 p.m. in Manila and Hong Kong, and midnight on November 1 in Seoul (KST). All locations refer to the same instant."
+            ]
+          }
+        ],
+        "table": {
+          "caption": "Part 2 scheduled start · Oct 31, 2026",
+          "columns": [
+            "Location",
+            "Local scheduled start"
+          ],
+          "rows": [
+            [
+              "UTC",
+              "Sat Oct 31 · 15:00"
+            ],
+            [
+              "New York, US (EDT)",
+              "Sat Oct 31 · 11:00"
+            ],
+            [
+              "London, UK (GMT)",
+              "Sat Oct 31 · 15:00"
+            ],
+            [
+              "New Delhi, India (IST)",
+              "Sat Oct 31 · 20:30"
+            ],
+            [
+              "Manila, Philippines (PHT)",
+              "Sat Oct 31 · 23:00"
+            ],
+            [
+              "Hong Kong (HKT)",
+              "Sat Oct 31 · 23:00"
+            ],
+            [
+              "Seoul, South Korea (KST)",
+              "Sun Nov 1 · 00:00"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "update",
+        "heading": "What Is in the Halloween Update?",
+        "intro": "The calendar distinguishes the Halloween Update that began October 25 from Halloween Part 2 planned for October 31. Do not confuse two phases with two different games or assume every teased feature is a confirmed collectible.",
+        "subsections": [
+          {
+            "heading": "Halloween Part 1",
+            "paragraphs": [
+              "Developer event notes, summarized by the current event calendar, describe nighttime orange-glowing cages, seasonal cosmetics and a mystery shop in the hub. The update window is listed from October 25 through November 8; specific store stock, pet names and odds have not been verified in this guide."
+            ]
+          },
+          {
+            "heading": "Halloween Part 2 Preview",
+            "paragraphs": [
+              "The preview describes a portal opening in the hub and a giant claw, with more riders arriving. It is promotional event text, not a published drop table. No unsupported “all new pets” list or promised free Halloween reward is provided."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "join",
+        "heading": "How to Join and Track the Event",
+        "intro": "Use the official Roblox experience. When it opens, read the latest in-game or Roblox event notice, enter the experience and look for any Halloween features described in that announcement. Do not assume a fixed portal position or special button that has not been verified.",
+        "subsections": [
+          {
+            "heading": "Event Checklist",
+            "paragraphs": [
+              "Before the October 31 start, save the 15:00 UTC time for your region; check the event card again on the day; open the game through the correct Snail Riders experience; look for the Halloween update content in your server; and compare the event end date before spending time on seasonal items."
+            ],
+            "bullets": [
+              "Official game title and developer: Steal A Pet And Ride It! by Snail Riders",
+              "Scheduled Part 2 start: October 31, 2026 · 15:00 UTC",
+              "Calendar end: November 8, 2026 · 15:00 UTC",
+              "Rewards and individual collection rules: rely on current game notices, not unverified lists"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "heading": "Halloween Event FAQs and Changes",
+        "intro": "Events change faster than permanent gameplay systems. This guide records the developer-scheduled time and a summary of the October 29 calendar; a later Roblox notice takes priority over the figures here.",
+        "subsections": [
+          {
+            "heading": "Changes Since the Last Check",
+            "paragraphs": [
+              "At the October 29 review, Halloween Update was listed as the current phase and Part 2 as an upcoming October 31 release. No independent in-game verification of Part 2’s complete rewards was available, so the guide does not list pet drop rates or item counts. Admin-session timing is tracked separately to avoid misleading countdowns."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "admin-abuse",
+            "label": "Admin Abuse Schedule",
+            "description": "Separate admin session evidence and uncertainty"
+          },
+          {
+            "slug": "world-2",
+            "label": "World 2 Guide",
+            "description": "Permanent second-world additions"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When does Halloween Part 2 start?",
+        "answer": "Scheduled Saturday, October 31, 2026 at 15:00 UTC; the latest official Roblox event card may supersede this schedule."
+      },
+      {
+        "question": "Is the Halloween event live?",
+        "answer": "At the October 29 review, the October 25 Halloween Update was listed as active; Part 2 was scheduled but had not started."
+      },
+      {
+        "question": "When does the Halloween event end?",
+        "answer": "The event calendar lists November 8, 2026 at 15:00 UTC as the end; verify the current event card."
+      },
+      {
+        "question": "Will Part 2 have Admin Abuse?",
+        "answer": "Some event descriptions associate it with admin activity, but an independently timed standalone admin session is not confirmed. See the Admin Abuse guide."
+      },
+      {
+        "question": "Which Halloween pets or rewards are confirmed?",
+        "answer": "The event notes mention seasonal content, but this guide cannot verify a complete item list or drop rates. Check current announcements before relying on a reward claim."
+      }
+    ],
+    "relatedSlugs": [
+      "admin-abuse",
+      "world-2",
+      "how-to-steal-cages"
+    ],
+    "sourceLinks": [
+      {
+        "label": "Official Roblox game and events",
+        "url": "https://www.roblox.com/games/95168737547508/Steal-A-Pet-And-Ride-It"
+      },
+      {
+        "label": "AllThingsHow event calendar (Oct 28)",
+        "url": "https://allthings.how/steal-a-pet-and-ride-it-events-schedule/"
+      },
+      {
+        "label": "BloxRadar event records",
+        "url": "https://bloxradar.app/g/steal-a-pet-and-ride-it-10769315427"
+      }
+    ],
+    "lastReviewed": "2026-10-29"
+  },
+  {
+    "enabled": true,
+    "slug": "admin-abuse",
+    "pageType": "updates",
+    "navLabel": "Admin Abuse",
+    "title": "Steal A Pet And Ride It Admin Abuse Time & Schedule",
+    "description": "Steal A Pet And Ride It Admin Abuse schedule: see confirmed past events, the latest event status and upcoming Roblox update times in UTC.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Roblox player guide · checked October 29, 2026",
+      "heading": "Steal A Pet And Ride It Admin Abuse Schedule",
+      "lead": "The October 25 Halloween Update includes “+ ADMIN ABUSE,” and a separate Admin Abuse session was listed on October 18. Halloween Part 2 is scheduled for October 31 at 15:00 UTC, but a separate Admin Abuse start time and duration for that date are not confirmed."
+    },
+    "sections": [
+      {
+        "id": "next",
+        "heading": "Next Steal A Pet And Ride It Admin Abuse Time",
+        "intro": "There is no independently confirmed start time for a new standalone Admin Abuse session in the sources checked October 29. October 31 at 15:00 UTC is the scheduled Halloween Part 2 event time, not proof of a separately timed admin giveaway.",
+        "subsections": [
+          {
+            "heading": "What Is Confirmed Right Now?",
+            "paragraphs": [
+              "The October 25 Halloween Update event title included an admin-abuse label. The Halloween Part 2 calendar entry is scheduled for October 31 and is marked possible as an admin-related event by an event tracker. The correct conclusion is that admin activity may accompany the update; the tracker does not establish a distinct admin session with a fixed duration."
+            ]
+          },
+          {
+            "heading": "Time Zone Conversion",
+            "paragraphs": [
+              "If you want to watch the Halloween Part 2 launch, 15:00 UTC on October 31 is 11:00 a.m. in New York (EDT), 8:30 p.m. in India (IST), 11:00 p.m. in the Philippines (PHT), and midnight November 1 in South Korea (KST). These times describe the update’s schedule, not a verified separate Admin Abuse start."
+            ]
+          }
+        ],
+        "table": {
+          "caption": "Event type and confidence · checked Oct 29",
+          "columns": [
+            "Event",
+            "Time (UTC)",
+            "Status"
+          ],
+          "rows": [
+            [
+              "Halloween Part 2 update",
+              "Oct 31, 2026 · 15:00",
+              "Scheduled update; distinct admin time unconfirmed"
+            ],
+            [
+              "Halloween Update + ADMIN ABUSE",
+              "Oct 25–Nov 8, 2026",
+              "Event window with admin label; not a continuous admin session"
+            ],
+            [
+              "Standalone ADMIN ABUSE",
+              "Oct 18, 2026 · 17:00–17:40",
+              "Past event listed by the calendar"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "past",
+        "heading": "Past Admin Abuse Events",
+        "intro": "Earlier entries are useful because they show that Admin Abuse is an actual event label used for this Roblox experience. They do not prove a weekly pattern or justify inventing a Saturday session.",
+        "subsections": [
+          {
+            "heading": "October 18 Session",
+            "paragraphs": [
+              "The event history lists a standalone ADMIN ABUSE session on October 18 from 17:00 to 17:40 UTC, described as a live gift-distribution session. The event has ended; it should not appear as “next” in a current guide."
+            ]
+          },
+          {
+            "heading": "Halloween Update with Admin Label",
+            "paragraphs": [
+              "An October 25 Halloween update entry explicitly included “+ ADMIN ABUSE” in its event title. A multi-day event window is a period when the update is listed, not proof admins distribute items throughout that entire period."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "verify",
+        "heading": "How to Check Official Admin Announcements",
+        "intro": "Start from the Roblox experience owned by Snail Riders, then inspect its current events and any developer-controlled channels linked from that listing. For a time-sensitive event, prefer an announcement that names the event, date, clock time, time zone and whether the session is standalone.",
+        "subsections": [
+          {
+            "heading": "What a Reliable Announcement Includes",
+            "paragraphs": [
+              "Compare the game identity and developer first. Then separate three pieces of information: a Roblox update start time, an event with “admin abuse” in its title, and an explicitly announced standalone admin-session time. Third-party trackers may summarize the first two without establishing the third."
+            ],
+            "bullets": [
+              "Look for an exact scheduled time and stated time zone",
+              "Check if the announcement belongs to Snail Riders, not a similarly named game",
+              "Confirm if the source describes an update window or an individual live session",
+              "Treat a “possible” tracker status as provisional"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "faq",
+        "heading": "FAQ: Admin Abuse vs Halloween Events",
+        "intro": "An update can be scheduled precisely while its associated admin activities remain untimed. That distinction matters more than adding an attractive but unsupported countdown.",
+        "subsections": [
+          {
+            "heading": "Event Status Change Log",
+            "paragraphs": [
+              "As of October 29, October 18 is a past standalone session, the October 25 Halloween window carries an admin label, and October 31 is an upcoming Halloween Part 2 launch. No new standalone admin duration has been verified. The schedule is intended to be updated when developer evidence changes."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "halloween-event",
+            "label": "Halloween Event and Part 2",
+            "description": "Full update timeline and local start times"
+          },
+          {
+            "slug": "how-to-steal-cages",
+            "label": "How to Steal Cages",
+            "description": "Continue playing while waiting for an event"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When is the next Admin Abuse?",
+        "answer": "No separate next-session time is confirmed in the sources reviewed October 29. Halloween Part 2 starts on the scheduled calendar at October 31, 15:00 UTC, but that is not a confirmed standalone Admin Abuse start."
+      },
+      {
+        "question": "Was there an Admin Abuse event on October 18?",
+        "answer": "Yes. A published event calendar lists a 17:00–17:40 UTC standalone session on October 18, 2026."
+      },
+      {
+        "question": "Does Halloween Part 2 guarantee Admin Abuse?",
+        "answer": "No. Event labels and tracker classifications do not establish whether or when a separate admin activity will take place."
+      },
+      {
+        "question": "Is Admin Abuse live for the whole Halloween update?",
+        "answer": "No such continuous session is verified; the multi-day calendar window is the Halloween update period, not a guaranteed multi-day giveaway."
+      }
+    ],
+    "relatedSlugs": [
+      "halloween-event",
+      "how-to-steal-cages"
+    ],
+    "sourceLinks": [
+      {
+        "label": "Official Roblox game and event cards",
+        "url": "https://www.roblox.com/games/95168737547508/Steal-A-Pet-And-Ride-It"
+      },
+      {
+        "label": "AllThingsHow event history",
+        "url": "https://allthings.how/steal-a-pet-and-ride-it-events-schedule/"
+      },
+      {
+        "label": "AdminAbuse.app event tracker",
+        "url": "https://adminabuse.app/"
+      }
+    ],
+    "lastReviewed": "2026-10-29"
+  },
+  {
+    "enabled": true,
+    "slug": "world-2",
+    "pageType": "guide",
+    "navLabel": "World 2",
+    "title": "Steal A Pet And Ride It World 2 Guide & Biomes",
+    "description": "Explore Steal A Pet And Ride It World 2: the official update adds 10 biomes, 80 pets, new bosses and barn skins. See confirmed details and guides.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Roblox player guide · checked October 29, 2026",
+      "heading": "Steal A Pet And Ride It World 2 Guide",
+      "lead": "World 2 is live in Steal A Pet And Ride It. The Roblox description confirms 10 new biomes, 80 new pets, new bosses and barn skins, bringing the game to 20 biomes across two worlds. Exact access requirements depend on the current in-game interface."
+    },
+    "sections": [
+      {
+        "id": "whats-new",
+        "heading": "What Is New in World 2?",
+        "intro": "World 2 is a real expansion described by Snail Riders. It does not replace the original steal-and-return gameplay. Players still take cages from sleeping bosses, open them for pets and improve movement and barn progression.",
+        "subsections": [
+          {
+            "heading": "New Biomes and Environments",
+            "paragraphs": [
+              "The official description names Moon, Ocean, Crystal, Shadow, Storm and the Black Hole, followed by “and more.” They are examples of environments in the expanded game rather than a verified ten-item order. Each area can be approached as part of exploring the new world, but unlock costs and area-by-area requirements should be read inside the live experience."
+            ]
+          },
+          {
+            "heading": "New Pets, Bosses and Barn Skins",
+            "paragraphs": [
+              "The update adds 80 pets and new bosses and barn skins according to Roblox. This figure describes the announced expansion; it does not mean every pet is equally available or reveal any rarity odds. A second barn and extra barn skins are also promoted in the developer description."
+            ]
+          }
+        ],
+        "table": {
+          "caption": "World 2: developer-confirmed overview",
+          "columns": [
+            "Feature",
+            "Confirmed information"
+          ],
+          "rows": [
+            [
+              "New biomes",
+              "10 additional biomes"
+            ],
+            [
+              "New pets",
+              "80 additional pets"
+            ],
+            [
+              "World count",
+              "2 worlds; 20 biomes across both"
+            ],
+            [
+              "Other additions",
+              "New bosses, a second barn and barn skins"
+            ],
+            [
+              "Named areas",
+              "Moon, Ocean, Crystal, Shadow, Storm, Black Hole (partial names)"
+            ]
+          ]
+        }
+      },
+      {
+        "id": "access",
+        "heading": "How to Access World 2",
+        "intro": "Enter the official Roblox experience and look at the world and progression interface available in your current server. Roblox confirms the second world exists, but the public description does not document an exact unlock price, level threshold or portal coordinates.",
+        "subsections": [
+          {
+            "heading": "Prerequisites and Unlock Steps",
+            "paragraphs": [
+              "First, confirm you are playing Steal A Pet And Ride It by Snail Riders. Follow the visible progression and world-selection prompts in game, and read any access requirement shown there before spending cash. If a locked area appears, treat its stated requirement as the relevant one for your game version rather than using a guessed price from an unrelated pet game."
+            ]
+          },
+          {
+            "heading": "What to Do If World 2 Is Not Visible",
+            "paragraphs": [
+              "Double-check the game identity, confirm the current server has loaded the latest update, and inspect the game’s navigation or world selection. If the interface still does not display World 2, consult the developer’s current announcement. Do not reset progress based on an unsupported “unlock trick.”"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "biomes",
+        "heading": "World 2 Biomes Overview",
+        "intro": "The developer has disclosed examples of newly themed environments, but not a complete ordered public biome chart. This section highlights only the names actually mentioned by Roblox.",
+        "subsections": [
+          {
+            "heading": "Moon, Ocean, Crystal and Shadow",
+            "paragraphs": [
+              "Moon, Ocean, Crystal and Shadow appear in the official list. Their names help you recognize the new themes; they do not establish their precise sequence, separate boss stats, or which pets spawn there."
+            ]
+          },
+          {
+            "heading": "Storm and the Black Hole",
+            "paragraphs": [
+              "Storm and the Black Hole are also officially named. The Black Hole capitalization is part of the developer’s description, not a claim about a special black-hole currency. Use the in-game map to confirm the current placement of either environment."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "progression",
+        "heading": "World 2 Progression and Tips",
+        "intro": "Moving quickly and earning cash remain useful because they connect the core cage loop to your wider progression. The Roblox page also mentions meteor showers bringing rare cages, a limited Dinosaur Era Cage with 12 pets, and optional tools such as a lasso and banana peels; their exact mechanics are not specified here.",
+        "subsections": [
+          {
+            "heading": "Keep Pets When You Rebirth",
+            "paragraphs": [
+              "Roblox explicitly says you keep your pets after rebirth and receive large boosts. That is a useful distinction for players worried about losing their pet collection; it is not a promise that every other form of progress is retained."
+            ]
+          },
+          {
+            "heading": "Relevant Guides",
+            "paragraphs": [
+              "If you are still learning how to take a cage from a sleeping boss, start with the core stealing walkthrough. For one-off community rewards, the Legendary Pet page covers the developer-announced free offer without confusing it with World 2 pet drops."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "how-to-steal-cages",
+            "label": "How to Steal Cages",
+            "description": "Return-loop guide for new players"
+          },
+          {
+            "slug": "free-legendary-pet",
+            "label": "Free Legendary Pet",
+            "description": "Separate community reward"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is World 2 already in Steal A Pet And Ride It?",
+        "answer": "Yes. The official Roblox experience description says “World 2 is here” and lists the new content."
+      },
+      {
+        "question": "How many biomes and pets were added?",
+        "answer": "Roblox states 10 new biomes and 80 new pets, bringing the full game to 20 biomes over two worlds."
+      },
+      {
+        "question": "Which World 2 biomes are confirmed?",
+        "answer": "Moon, Ocean, Crystal, Shadow, Storm and the Black Hole are named as examples in the official description; a full ordered list is not provided there."
+      },
+      {
+        "question": "What level unlocks World 2?",
+        "answer": "The current public game description does not provide a verified level, price or precise route. Check the progression UI in the current Roblox experience."
+      },
+      {
+        "question": "Do I lose pets after rebirth?",
+        "answer": "According to the official Roblox description, you keep all your pets when you rebirth."
+      }
+    ],
+    "relatedSlugs": [
+      "how-to-steal-cages",
+      "free-legendary-pet",
+      "halloween-event"
+    ],
+    "sourceLinks": [
+      {
+        "label": "Official developer game description",
+        "url": "https://www.roblox.com/games/95168737547508/Steal-A-Pet-And-Ride-It"
+      },
+      {
+        "label": "World 2 event history",
+        "url": "https://allthings.how/steal-a-pet-and-ride-it-events-schedule/"
+      }
+    ],
+    "lastReviewed": "2026-10-29"
+  },
+  {
+    "enabled": true,
+    "slug": "how-to-steal-cages",
+    "pageType": "guide",
+    "navLabel": "How to Steal Cages",
+    "title": "Steal A Pet And Ride It: How to Steal Cages",
+    "description": "Learn how to steal cages in Steal A Pet And Ride It, escape sleeping bosses, bring cages home, and open them for pets. A clear Roblox beginner guide.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Roblox player guide · checked October 29, 2026",
+      "heading": "How to Steal Cages in Steal A Pet And Ride It",
+      "lead": "To steal a pet cage, approach a sleeping boss, take a cage, and run back home before the boss catches you. Once home, open the cage to discover a pet. This core sequence is described by the Roblox developer."
+    },
+    "sections": [
+      {
+        "id": "steps",
+        "heading": "How to Steal a Pet Cage Step by Step",
+        "intro": "Follow the gameplay loop in this order. These are action goals confirmed by the developer, not invented keyboard controls, boss timers or guaranteed escape tricks.",
+        "subsections": [
+          {
+            "heading": "Step 1: Find a Sleeping Boss and Cage",
+            "paragraphs": [
+              "Explore the playable area until you find a boss with cages. The developer describes the bosses as sleeping when you steal cages. Observe what is actually on screen before interacting: the game may display different controls on PC, mobile, tablet and console."
+            ]
+          },
+          {
+            "heading": "Step 2: Escape Before the Boss Catches You",
+            "paragraphs": [
+              "After taking the cage, return toward your own home rather than continuing to explore with it. Roblox explicitly makes escaping before the boss catches you part of the mechanic. Keep your destination in mind, but do not assume there is a universally safe path, a fixed chase length or an invisibility trick."
+            ]
+          },
+          {
+            "heading": "Step 3: Open the Cage at Home",
+            "paragraphs": [
+              "When you get the cage home, open it to discover a pet. Pets are the intended result of the cage loop; individual pet rarity, cage odds and opening controls are not listed in the public developer description."
+            ]
+          }
+        ],
+        "steps": [
+          {
+            "heading": "Find a sleeping boss with cages",
+            "description": "Locate the cage and read the interaction prompt provided by your current device and server."
+          },
+          {
+            "heading": "Carry the cage back to your home",
+            "description": "Leave the boss area and run home before getting caught; do not rely on guessed detection ranges."
+          },
+          {
+            "heading": "Open the cage at home",
+            "description": "Open your recovered cage to discover a pet, then see how it fits your barn and ride options."
+          }
+        ]
+      },
+      {
+        "id": "pets",
+        "heading": "What Happens After You Open a Cage?",
+        "intro": "The pet is more than a collectible. In this game, pets connect movement, cash and upgrades. A better understanding of the loop is more useful than pursuing unverified “best pet” rankings.",
+        "subsections": [
+          {
+            "heading": "Ride Pets to Move Faster",
+            "paragraphs": [
+              "The official description says players can ride their pets to become faster. If a pet is rideable in your current build, use the game’s own ride option and compare how movement feels during your next cage return. The public description does not provide exact speed bonuses for individual pets."
+            ]
+          },
+          {
+            "heading": "Train Speed and Upgrade Your Barn",
+            "paragraphs": [
+              "Pets in the barn earn cash. The treadmill increases Speed, and upgrades are available for both the treadmill and barn. This gives you a practical cycle: bring home a cage, open it, collect cash and improve your movement or storage before the next trip."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mistakes",
+        "heading": "Common Cage-Stealing Mistakes",
+        "intro": "If a run fails, isolate the part of the loop where it failed. The public gameplay summary does not describe a precise penalty, so do not trust claims about automatic inventory deletion, timer lengths or guaranteed recovery.",
+        "subsections": [
+          {
+            "heading": "The Boss Caught You",
+            "paragraphs": [
+              "Return to the boss area after resetting for another attempt. On the next run, focus on the direct path back to your own home instead of lingering for extra cages. If the game shows a specific failure message, use that in-game information rather than assuming every failed run behaves the same way."
+            ]
+          },
+          {
+            "heading": "I Cannot Find the Cage",
+            "paragraphs": [
+              "Make sure you are inside the correct game by Snail Riders and look for the sleeping-boss encounter described on its Roblox page. Try exploring another visible area or reviewing any in-game instructions. Avoid external scripts advertised as finding or stealing cages automatically."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "world",
+        "heading": "Cages, Pets and World 2",
+        "intro": "The same fundamentals carry into exploring the game’s expanding world: gather pets, earn cash, train Speed and explore new biomes. Roblox reports two worlds and 20 biomes, but cage positions can change as the game updates.",
+        "subsections": [
+          {
+            "heading": "Keep Improving Your Route",
+            "paragraphs": [
+              "On your next attempt, identify your home before approaching a boss, watch the live on-screen interaction prompts, then compare the route home with the one you just used. That is a practical self-check, not an unverified guaranteed exploit."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "world-2",
+            "label": "World 2 Biomes and Guide",
+            "description": "Areas and expansion facts"
+          },
+          {
+            "slug": "free-legendary-pet",
+            "label": "Free Legendary Pet",
+            "description": "Official community reward independent of cage drops"
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do I steal a cage?",
+        "answer": "Find a sleeping boss, take one of its cages and run home before the boss catches you, then open it at home."
+      },
+      {
+        "question": "Which button steals cages on mobile?",
+        "answer": "The official game description does not specify a universal button. Follow the interaction displayed by your current Roblox device and game version."
+      },
+      {
+        "question": "What happens if the boss catches me?",
+        "answer": "The developer confirms the risk of being caught but does not document a universal penalty in the public description. Follow your current game’s message and retry."
+      },
+      {
+        "question": "Can I ride a pet after opening a cage?",
+        "answer": "Yes, riding pets to move faster is an officially described mechanic. Available options may depend on the pet and game state."
+      },
+      {
+        "question": "How do I improve my speed?",
+        "answer": "Use the treadmill Speed training and upgrades described on the official Roblox page."
+      }
+    ],
+    "relatedSlugs": [
+      "world-2",
+      "free-legendary-pet"
+    ],
+    "sourceLinks": [
+      {
+        "label": "Official Roblox gameplay instructions",
+        "url": "https://www.roblox.com/games/95168737547508/Steal-A-Pet-And-Ride-It"
+      }
+    ],
+    "lastReviewed": "2026-10-29"
+  },
+  {
+    "enabled": true,
+    "slug": "free-legendary-pet",
+    "pageType": "guide",
+    "navLabel": "Free Legendary Pet",
+    "title": "Steal A Pet And Ride It Free Legendary Pet Guide",
+    "description": "Get the free Legendary Pet in Steal A Pet And Ride It: learn the official Snail Riders community requirement, where to start, and what to verify.",
+    "navVisible": true,
+    "hero": {
+      "eyebrow": "Roblox player guide · checked October 29, 2026",
+      "heading": "How to Get a Free Legendary Pet in Steal A Pet And Ride It",
+      "lead": "The official Roblox description says players can claim a FREE Legendary Pet by joining the Snail Riders community. Start on the correct game page and use its developer or community links. Specific reward-menu buttons and waiting times have not been verified."
+    },
+    "sections": [
+      {
+        "id": "claim",
+        "heading": "How to Get the Free Legendary Pet",
+        "intro": "There is a genuine community reward mentioned by the creator. The safest path begins at the verified Roblox experience, not at a third-party “free pet generator.” The public description identifies the requirement but does not show a precise on-screen claim sequence.",
+        "subsections": [
+          {
+            "heading": "Step 1: Open the Official Roblox Game",
+            "paragraphs": [
+              "Use the Steal A Pet And Ride It experience linked below. Check its title and the “By Snail Riders” creator line to avoid the unrelated Steal a Pet, Steal An Egg and clone experiences."
+            ]
+          },
+          {
+            "heading": "Step 2: Join the Snail Riders Community",
+            "paragraphs": [
+              "From the official Roblox experience or developer profile, follow the community link controlled by Snail Riders and use Roblox’s normal community joining flow. Do not follow an unverified community with a similar name from search results. Membership is the requirement explicitly described by the developer."
+            ]
+          },
+          {
+            "heading": "Step 3: Check the Reward in Game",
+            "paragraphs": [
+              "Return to the correct Roblox game after joining, inspect current in-game notices for the community reward and follow any instructions actually shown there. The official description does not specify whether a separate claim button, rejoin, delay or inventory action is required; those details should not be guessed."
+            ]
+          }
+        ],
+        "table": {
+          "caption": "Developer-announced reward",
+          "columns": [
+            "Field",
+            "What is supported"
+          ],
+          "rows": [
+            [
+              "Reward",
+              "One FREE Legendary Pet (developer description)"
+            ],
+            [
+              "Published requirement",
+              "Join the Snail Riders community"
+            ],
+            [
+              "Starting point",
+              "Official Roblox experience by Snail Riders"
+            ],
+            [
+              "Exact claim controls",
+              "Not specified by the public developer description"
+            ],
+            [
+              "Codes, rarity rate or pet name",
+              "Not independently confirmed"
+            ]
+          ]
+        },
+        "steps": [
+          {
+            "heading": "Visit the genuine Roblox experience",
+            "description": "Confirm the correct game name and Snail Riders creator before using any links."
+          },
+          {
+            "heading": "Join the creator community",
+            "description": "Use Roblox’s own community link associated with the verified creator."
+          },
+          {
+            "heading": "Look for the reward in game",
+            "description": "Follow only current in-game prompts for claiming or viewing the Legendary Pet."
+          }
+        ]
+      },
+      {
+        "id": "eligibility",
+        "heading": "Who Is Eligible for the Free Legendary Pet?",
+        "intro": "The advertised route is community membership. This is distinct from randomly opening stolen cages, which is the standard gameplay loop.",
+        "subsections": [
+          {
+            "heading": "Official Requirement",
+            "paragraphs": [
+              "The developer’s exact public instruction is to join the Snail Riders community to claim the Legendary reward. There is no verified evidence here of a purchase or external form requirement. Keep the game and community accounts within Roblox."
+            ]
+          },
+          {
+            "heading": "Requirements Not Confirmed",
+            "paragraphs": [
+              "A minimum level, account age, invitation count, exact reward pet name, server rejoin requirement or number of minutes to wait is not specified in the public description. Until verified directly, none of those should be presented as a barrier to claiming."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "comparison",
+        "heading": "Free Legendary Pet vs. Other Ways to Get Pets",
+        "intro": "Not every pet in the game comes from the same system. Understanding the difference prevents players from wasting time trying the wrong method.",
+        "subsections": [
+          {
+            "heading": "Community Reward",
+            "paragraphs": [
+              "This is the special creator-advertised reward tied to joining the Snail Riders community. The public description does not say it comes from a particular biome, cage tier or event-specific chest."
+            ]
+          },
+          {
+            "heading": "Pets from Stolen Cages",
+            "paragraphs": [
+              "In the regular loop, you take cages from sleeping bosses, run home and open them for pets. Roblox says rare pets can be found this way, but it does not give a complete cage drop table in its public description. The cage guide covers that separate process."
+            ]
+          }
+        ],
+        "links": [
+          {
+            "slug": "how-to-steal-cages",
+            "label": "How to Steal Cages",
+            "description": "Get pets from the regular gameplay loop"
+          },
+          {
+            "slug": "world-2",
+            "label": "World 2 Guide",
+            "description": "Read about the additional pet-filled biomes"
+          }
+        ]
+      },
+      {
+        "id": "troubleshooting",
+        "heading": "Troubleshooting and FAQ",
+        "intro": "If the reward does not appear, first establish that you joined the correct creator community and are in the correct experience. Then read the latest Roblox notice for any changed procedure.",
+        "subsections": [
+          {
+            "heading": "Check the Correct Creator",
+            "paragraphs": [
+              "The official experience is credited to Snail Riders and carries the Place ID 95168737547508. Comparing that ID is safer than trusting a lookalike community banner or video thumbnail."
+            ]
+          },
+          {
+            "heading": "Avoid Unverified Redeem Codes",
+            "paragraphs": [
+              "The published requirement is community membership. This guide does not claim the game has a redeem-code interface, an active pet code or a link to a “pet generator.” Never give Roblox login credentials to unofficial claim pages."
+            ]
+          }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How do I get the free Legendary Pet?",
+        "answer": "Join the Snail Riders community as directed by the official Roblox game description, then check the current in-game instructions."
+      },
+      {
+        "question": "Is the Legendary Pet a guaranteed cage drop?",
+        "answer": "The advertised community reward is distinct from opening cages. No special cage-drop odds are provided in the official description."
+      },
+      {
+        "question": "Do I need to enter a code?",
+        "answer": "The official claim description mentions joining the community, not a code. Do not trust unverified code or pet-generator offers."
+      },
+      {
+        "question": "What if I joined but did not receive it?",
+        "answer": "Verify you joined the creator’s genuine Roblox community, return to the correct experience and follow any current game notice. Specific timing and button steps were not verified."
+      },
+      {
+        "question": "Which game is the reward for?",
+        "answer": "Steal A Pet And Ride It! by Snail Riders, Roblox Place ID 95168737547508, not a similarly named pet game."
+      }
+    ],
+    "relatedSlugs": [
+      "how-to-steal-cages",
+      "world-2"
+    ],
+    "sourceLinks": [
+      {
+        "label": "Official Roblox description and creator",
+        "url": "https://www.roblox.com/games/95168737547508/Steal-A-Pet-And-Ride-It"
+      }
+    ],
+    "lastReviewed": "2026-10-29"
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "readyForLaunch": true,
+  "siteName": "Steal A Pet And Ride It! Guide",
+  "shortName": "Steal A Pet And Ride It!",
+  "description": "Independent Roblox guide to Steal A Pet And Ride It: cage stealing, World 2, Halloween events, admin sessions and the free Legendary Pet.",
+  "language": "en",
+  "locale": "en_US",
+  "authorName": "Editorial Team",
+  "theme": {
+    "preset": "obsidian-red",
+    "overrides": {
+      "background": "31 29% 14%",
+      "foreground": "0 0% 99%",
+      "card": "31 29% 19%",
+      "card-foreground": "0 0% 99%",
+      "primary": "106 31% 37%",
+      "primary-foreground": "0 0% 100%",
+      "secondary": "31 29% 25%",
+      "muted": "31 29% 22%",
+      "muted-foreground": "0 0% 99%",
+      "border": "31 29% 30%",
+      "radius": ".75rem",
+      "card-shadow": "0 22px 70px hsl(106 31% 37% / .16)",
+      "hero-gradient": "radial-gradient(circle at 78% 14%, hsl(106 31% 37% / .2), transparent 36%)",
+      "background-pattern": "radial-gradient(hsl(106 31% 37% / .05) 1px, transparent 1px)",
+      "font-sans": "\"Source Sans 3\", ui-sans-serif, system-ui, sans-serif",
+      "font-heading": "\"IBM Plex Mono\", ui-monospace, SFMono-Regular, Menlo, monospace",
+      "heading-weight": "600",
+      "heading-letter-spacing": "0em"
+    },
+    "skin": "modular-wiki",
+    "headerStyle": "solid",
+    "componentStyle": "sharp",
+    "accentColorId": "default",
+    "colorMode": "custom",
+    "background": "#2F251A",
+    "accent": "#4F7C41",
+    "fontId": "ibm-plex-mono"
+  },
+  "hosting": {
+    "siteUrl": "https://steal-a-pet-and-ride-it.github.io",
+    "basePath": "",
+    "customDomain": null
+  },
+  "allowedExternalDomains": [
+    "www.roblox.com",
+    "allthings.how",
+    "bloxradar.app",
+    "adminabuse.app"
+  ],
+  "assets": {
+    "logo": "/images/steal-a-pet-and-ride-it-logo.png",
+    "cover": "/images/steal-a-pet-and-ride-it-cover.png",
+    "openGraph": "/images/steal-a-pet-and-ride-it-og.svg",
+    "favicon": "/images/steal-a-pet-and-ride-it-logo.png"
+  },
+  "game": {
+    "name": "Steal A Pet And Ride It!",
+    "platform": "Roblox",
+    "developer": "Snail Riders",
+    "genre": "Simulation",
+    "officialUrl": "https://www.roblox.com/games/95168737547508/Steal-A-Pet-And-Ride-It"
+  },
+  "seo": {
+    "titleTemplate": "%s | Steal A Pet And Ride It! Guide"
+  }
+}
