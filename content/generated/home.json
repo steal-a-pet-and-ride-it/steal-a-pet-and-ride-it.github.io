@@ -36,6 +36,20 @@
           "paragraphs": [
             "Open the stolen cage after returning home. Pets can be ridden for more speed and placed in your barn to earn cash. The game also offers treadmill Speed training, treadmill and barn upgrades, and rebirth boosts that preserve your pets. These are different progression options, not guaranteed drop outcomes."
           ]
+        },
+        {
+          "heading": "A Beginner Route for the First Few Sessions",
+          "paragraphs": [
+            "Start by visiting the official Roblox experience and observing the route between the boss area and the place where cages are opened. Your first useful objective is not to chase a particular rarity. It is to learn the full loop: approach a sleeping boss, take a cage when the game allows it, get back home, open the cage and decide what the new pet contributes. Once you can repeat that sequence reliably, use the resulting cash and Speed progression to make the next attempt easier. This is a suggested learning order, not a claim that the game enforces these exact stages.",
+            "Keep the route short while learning and pay attention to where the interface displays cage prompts, your movement speed and return progress. Roblox says the game supports PC, mobile, tablet and console, so visible buttons will differ between devices. Follow the on-screen prompt rather than a keyboard shortcut from an unrelated Roblox title. Our dedicated cage guide explains what to check before a run and how to recover when the boss catches you."
+          ]
+        },
+        {
+          "heading": "What to Upgrade First: Speed, Pets or Barn?",
+          "paragraphs": [
+            "The developer links three systems to the main loop. A rideable pet helps you move faster, the treadmill trains Speed and the barn generates cash through the pets you keep. That makes them complementary rather than competing activities. If you find you repeatedly fail to bring a cage home, investigate movement and your return path before spending an entire session searching for a rare pet. If the journey is comfortable but your upgrades are slow, examine how cash is accumulating in your barn and which in-game upgrades are affordable.",
+            "The public description does not provide current upgrade prices, exact Speed requirements or a definitive best-pet chart. Use the live upgrade menu for numbers. This guide avoids a fabricated tier list and instead gives you a way to choose: identify the obstacle you face now, then improve the system that directly addresses it. Returning with an ordinary cage consistently can be more useful than attempting a hard route that you have not learned."
+          ]
         }
       ],
       "links": [
@@ -62,6 +76,13 @@
           "paragraphs": [
             "The October 25 Halloween update includes an admin-abuse label. A separate session is known from October 18, but no new standalone admin start time or duration is confirmed here. The dedicated schedule distinguishes the different event types."
           ]
+        },
+        {
+          "heading": "Which Event Page Should I Open?",
+          "paragraphs": [
+            "The Halloween event and Admin Abuse answer different questions. Open the Halloween guide when you want the scheduled Part 2 date, time-zone conversion, information about the event window or the distinction between the already running update and the upcoming phase. Open the Admin Abuse page when you specifically want to know whether a separately timed administrator session is confirmed. The October 31 Halloween Part 2 start time should not be advertised as a confirmed standalone Admin Abuse start time.",
+            "Event pages need more caution than permanent mechanics: a future start can be delayed, a server may not yet display a feature and a calendar entry may refer to an entire event period rather than a short session. Check the Roblox listing linked from this website before setting an alarm. We show the observation date alongside time-sensitive answers so you can distinguish a scheduled time from a live report."
+          ]
         }
       ],
       "links": [
@@ -86,6 +107,13 @@
           "heading": "New Areas and Pets",
           "paragraphs": [
             "The developer names Moon, Ocean, Crystal, Shadow, Storm and the Black Hole among the new environments. This is a partial list, not a complete ordered map or an unlock sequence. Specific gates and route requirements have not been independently tested for this guide."
+          ]
+        },
+        {
+          "heading": "How to Approach New Worlds Without a Fake Unlock Chart",
+          "paragraphs": [
+            "World 2 is already part of Steal A Pet And Ride It. The creator describes ten newly added biomes and eighty new pets, bringing the combined world count to two and biome count to twenty. The public description also mentions new bosses, skins, a second barn and limited content. Those are useful confirmed starting points; they do not reveal which doorway, level, currency cost or Speed value unlocks each area.",
+            "When you enter the game, inspect the current world-selection and progression interfaces instead of trusting an old list of invented requirements. If a destination is locked, read the exact condition on your screen, work toward that condition and revisit after a server update if the UI changes. Our World 2 guide separates developer-confirmed environments from details that can only be learned inside the current game."
           ]
         }
       ],
@@ -112,6 +140,13 @@
           "heading": "Learn the Cage-Stealing Loop",
           "paragraphs": [
             "Getting a community reward and opening cages are separate activities. When playing normally, collect cages and return home, then use pets, barn cash and training to improve your next attempt."
+          ]
+        },
+        {
+          "heading": "Free Pets, Codes and Community Links: Avoid Mix-ups",
+          "paragraphs": [
+            "The official game description promotes one clear community benefit: joining the Snail Riders community to claim a free Legendary pet. That is separate from opening cages as part of normal play. It is also not evidence that this game has an active code redemption box. A page promising a current code, a guaranteed Legendary drop or a pet generator should not be treated as official merely because it uses the game title.",
+            "Follow the community link from the verified Roblox experience, confirm the community belongs to Snail Riders and read the live instructions for claiming the reward. If the in-game process differs, the current game interface takes precedence. Avoid entering passwords into unrelated websites or installing scripts that claim to unlock free pets. Our dedicated Legendary guide focuses only on this documented community-reward task."
           ]
         }
       ],
@@ -164,7 +199,16 @@
             "Join the Snail Riders community via the official Roblox game page"
           ]
         ]
-      }
+      },
+      "subsections": [
+        {
+          "heading": "How This Guide Is Organized",
+          "paragraphs": [
+            "Use the five links above as a map of five distinct player tasks. The cage tutorial teaches the repeating steal-return-open loop. World 2 focuses on new areas and progression uncertainty. Halloween covers the current seasonal schedule and Part 2, while Admin Abuse deals with whether there is a separate administrator event to attend. Finally, the Legendary page documents the community reward and what to do when it does not appear. Separating these questions helps you reach an answer quickly without making one page pretend to be a full encyclopedia.",
+            "All six pages use the same official Roblox experience as their game identity anchor. We do not embed an unauthorized copy of the game, claim to be its developer or mix information from similarly named pet-stealing games. For facts that can change, such as special events and reward instructions, verify the latest in-game notice. For more stable systems, start with the gameplay summary and then use the specialist guide for actionable steps."
+          ]
+        }
+      ]
     }
   ],
   "faq": [
