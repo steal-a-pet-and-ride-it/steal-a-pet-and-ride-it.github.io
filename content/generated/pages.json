@@ -29,6 +29,13 @@
             "paragraphs": [
               "On October 31, 15:00 UTC corresponds to 11:00 a.m. in New York (EDT), 3:00 p.m. in London (GMT), 8:30 p.m. in India (IST), 11:00 p.m. in Manila and Hong Kong, and midnight on November 1 in Seoul (KST). All locations refer to the same instant."
             ]
+          },
+          {
+            "heading": "October 31 Start-Time Planning by Region",
+            "paragraphs": [
+              "The published Halloween Part 2 start is Saturday, October 31, 2026 at 15:00 UTC. This corresponds to 11:00 a.m. in New York while eastern daylight time is still active, 3:00 p.m. in London, 8:30 p.m. in India, 11:00 p.m. in Manila and Hong Kong, and midnight on November 1 in Seoul. The conversion matters because some local calendars show November 1 for the same global release. These are conversions of a scheduled timestamp, not separate regional release announcements.",
+              "For the November 8 end, use the listed 15:00 UTC and recalculate each region rather than reusing the October 31 US time label: New York changes to standard time between those dates. A calendar displaying “10:00 a.m. ET” at the end is consistent with 15:00 UTC. Players in a region with a midnight boundary should add the correct date, not just the clock time. Re-check the latest official event listing before committing to a live session."
+            ]
           }
         ],
         "table": {
@@ -85,6 +92,20 @@
             "paragraphs": [
               "The preview describes a portal opening in the hub and a giant claw, with more riders arriving. It is promotional event text, not a published drop table. No unsupported “all new pets” list or promised free Halloween reward is provided."
             ]
+          },
+          {
+            "heading": "What the Halloween Preview Does and Does Not Confirm",
+            "paragraphs": [
+              "The public event coverage describes seasonal changes such as Halloween-styled cages at night, a mystery shop in the hub and cosmetic additions during the first Halloween update. For Part 2, the announced theme involves a portal and defending the hub against creatures. Treat those as announced seasonal themes, not a verified map of permanent portals, exact spawn points or guaranteed item drops. You should look at the event notice in your current Roblox server to learn which interaction is live.",
+              "No complete, creator-verified Halloween pet rarity table, drop-rate percentage or shop price list is established in the accessible game description. That distinction prevents a common mistake: a player sees an event teaser, expects a specific collectible in every server and wastes time on a mechanic that was never confirmed. If you are collecting during a limited window, prioritize what the live UI explicitly shows and record the time it becomes available."
+            ]
+          },
+          {
+            "heading": "Halloween Update vs. Part 2 vs. Admin Abuse",
+            "paragraphs": [
+              "These three names are related but are not interchangeable. The Halloween Update is the larger seasonal window listed as starting October 25. Halloween Part 2 is a separately scheduled phase expected to open on October 31 at 15:00 UTC. An Admin Abuse label appears alongside certain update announcements, but that label alone does not establish an independently scheduled session with its own start and finish. The latter is a separate scheduling question handled on our Admin Abuse guide.",
+              "If a search result promises that the next Admin Abuse begins exactly when Part 2 begins, ask whether its source actually lists a distinct admin session. Otherwise you can end up preparing for the wrong activity. Check the event card title and its timing. Players looking for the portal-related Halloween feature should continue with this event page; players tracking administrator-run giveaways or special sessions should open the Admin Abuse schedule instead."
+            ]
           }
         ]
       },
@@ -104,6 +125,13 @@
               "Calendar end: November 8, 2026 · 15:00 UTC",
               "Rewards and individual collection rules: rely on current game notices, not unverified lists"
             ]
+          },
+          {
+            "heading": "A Practical Before-and-During Event Checklist",
+            "paragraphs": [
+              "Before the announced opening time, visit the official Roblox experience, confirm you have selected the right game by Snail Riders and read the description or event card. Once the event is supposed to start, enter a current server and inspect the hub and on-screen announcements. If the interface still looks unchanged, verify the date, the region conversion and whether the official event has been edited. A countdown from an independent site cannot force a game server to deliver an update.",
+              "When a time-limited feature appears, identify the activity objective before committing to a long cage run. Read any quest text or shop menu closely and choose a route that still allows you to return your cage safely. Do not assume Halloween decorations themselves award pets. If a feature asks for a currency or item, use the visible requirement rather than an estimate copied from an older event. Keep using the core cage loop and Speed upgrades between event objectives."
+            ]
           }
         ]
       },
@@ -116,6 +144,13 @@
             "heading": "Changes Since the Last Check",
             "paragraphs": [
               "At the October 29 review, Halloween Update was listed as the current phase and Part 2 as an upcoming October 31 release. No independent in-game verification of Part 2’s complete rewards was available, so the guide does not list pet drop rates or item counts. Admin-session timing is tracked separately to avoid misleading countdowns."
+            ]
+          },
+          {
+            "heading": "How to Recheck a Changing Event Schedule",
+            "paragraphs": [
+              "Use this order of evidence: current Roblox experience or event card first, the latest creator announcement second, and third-party calendars as a time-zone aid. A listing last checked on October 29 can be accurate about what was scheduled then while no longer matching a subsequent developer change. Look for an exact date, UTC offset, event title and whether the event is marked upcoming, live or finished. Compare like with like: a seasonal event end date is not necessarily a single activity duration.",
+              "After an event starts, new practical questions emerge, such as where an officially announced portal appears or what a limited shop actually sells. Those require current in-game verification before they belong in a definitive guide. Until then, this page makes the schedule clear and describes a reliable verification method rather than inventing reward odds or hidden mechanics. That is more useful than an attractive but false “everything confirmed” list."
             ]
           }
         ],
@@ -206,6 +241,20 @@
             "paragraphs": [
               "If you want to watch the Halloween Part 2 launch, 15:00 UTC on October 31 is 11:00 a.m. in New York (EDT), 8:30 p.m. in India (IST), 11:00 p.m. in the Philippines (PHT), and midnight November 1 in South Korea (KST). These times describe the update’s schedule, not a verified separate Admin Abuse start."
             ]
+          },
+          {
+            "heading": "Why There Is No Confirmed Countdown Yet",
+            "paragraphs": [
+              "Searches for “next admin abuse” are usually asking for a precise future session, not the dates of the broader Halloween event. At the October 29 review there is no separately corroborated start time for the next standalone Admin Abuse session. The Halloween Part 2 entry scheduled for October 31 includes event context, but it does not provide a distinct administrator session time. Displaying a countdown to 15:00 UTC with the heading “Admin Abuse starts” would confuse those two facts.",
+              "Watch for a Roblox event card or developer-controlled post that explicitly names the administrator event and provides its own timestamp. Until such an announcement exists, plan around confirmed game updates without assuming a bonus giveaway. Some reports may discuss a general “Admin Abuse” theme; those are clues that the feature exists, not evidence of the next appointment. The headline answer on this page intentionally changes only when the source changes."
+            ]
+          },
+          {
+            "heading": "Admin Abuse Time Zones: Convert Only Real Dates",
+            "paragraphs": [
+              "Time-zone calculations are straightforward only after a starting instant is confirmed. An official announcement specifying UTC can be converted directly; one specifying US Eastern time requires checking whether daylight saving is in effect on that particular date. For example, the past October 18 session listed at 17:00 UTC corresponds to 1:00 p.m. Eastern daylight time. This example is history and must not be used to predict another 1:00 p.m. session.",
+              "If the latest announcement gives a regional clock time without a zone, do not publish a universal countdown based on guesswork. A viewer in Manila, India or Korea may otherwise arrive on the wrong calendar date. Prefer to display the original source text, its stated time zone, the conversion and when that conversion was checked. The Halloween page has a separate reliable conversion for the scheduled seasonal release."
+            ]
           }
         ],
         "table": {
@@ -250,6 +299,13 @@
             "paragraphs": [
               "An October 25 Halloween update entry explicitly included “+ ADMIN ABUSE” in its event title. A multi-day event window is a period when the update is listed, not proof admins distribute items throughout that entire period."
             ]
+          },
+          {
+            "heading": "How to Interpret the October 18 Historical Session",
+            "paragraphs": [
+              "A third-party schedule records an October 18 administrator session lasting about forty minutes, from 17:00 to 17:40 UTC. That is useful evidence that Admin Abuse is a real event type attached to this game. It is not enough to establish a recurring weekday, weekly interval or standard forty-minute duration for all future events. Historical examples are most useful as a reminder to check event dates instead of relying on a copied countdown.",
+              "A session can end while the game remains playable and other updates stay live. If a player searches for an administrator session after it has finished, the honest answer is that the recorded session has passed and the next separate slot is not yet confirmed. We therefore keep past and future statuses distinct. Use the source list on this page if you want to trace where the past date was reported."
+            ]
           }
         ]
       },
@@ -269,6 +325,13 @@
               "Confirm if the source describes an update window or an individual live session",
               "Treat a “possible” tracker status as provisional"
             ]
+          },
+          {
+            "heading": "How to Verify an Admin Event in Three Steps",
+            "paragraphs": [
+              "First, open the correct Roblox experience by Snail Riders, not a similarly named pet game. Second, inspect official event cards and announcements associated with that creator for the specific phrase Admin Abuse. Third, look for an explicit future date, starting instant and whether the notice describes a standalone session or a broader update. Only then should you convert the time zone or set a reminder. A creator announcement is stronger evidence than a timer embedded in a fan website.",
+              "If you enter the game during a published window, follow the in-game instructions rather than third-party scripts or unofficial reward links. The public calendar describes at least one prior live distribution event, but it does not establish that every player will get a particular pet or item. If a page claims a guaranteed reward, look for independent official confirmation of that exact promise before treating it as a fact."
+            ]
           }
         ]
       },
@@ -281,6 +344,13 @@
             "heading": "Event Status Change Log",
             "paragraphs": [
               "As of October 29, October 18 is a past standalone session, the October 25 Halloween window carries an admin label, and October 31 is an upcoming Halloween Part 2 launch. No new standalone admin duration has been verified. The schedule is intended to be updated when developer evidence changes."
+            ]
+          },
+          {
+            "heading": "Common Sources of Admin Abuse Confusion",
+            "paragraphs": [
+              "The most frequent confusion is between an event title, the update that introduces it and the exact time a host appears. A Halloween card displaying “+ ADMIN ABUSE” can be an umbrella label, while a separate forty-minute calendar entry is a specific event. They should not be turned into one recurring daily schedule. Another problem is copying admin times from other Roblox games. Those experiences have different developers and different calendars even if they use the same event label.",
+              "If you are only looking for Halloween rewards or the Part 2 portal, go to the dedicated Halloween guide because it records a scheduled seasonal start. If you want the general cage-stealing strategy to use between events, open the cage tutorial. These separate destinations avoid presenting speculation as a confirmed admin session and let this page remain narrowly focused on the time-sensitive query."
             ]
           }
         ],
@@ -366,6 +436,13 @@
             "paragraphs": [
               "The update adds 80 pets and new bosses and barn skins according to Roblox. This figure describes the announced expansion; it does not mean every pet is equally available or reveal any rarity odds. A second barn and extra barn skins are also promoted in the developer description."
             ]
+          },
+          {
+            "heading": "What the Official World 2 Description Actually Says",
+            "paragraphs": [
+              "Snail Riders publicly describes World 2 as live, with ten added biomes, eighty new pets, new bosses and additional barn skins. The full game description now says there are twenty biomes across two worlds. It also mentions a second barn, meteor showers that bring rare cages, a limited Dinosaur Era Cage containing twelve limited pets, and player gadgets such as a lasso and banana peels. These are developer-described features, not numbers reverse-engineered from a fan screenshot.",
+              "The summary is still not an itemized catalog of all eighty pets, boss strengths or biome unlock costs. Treat any chart containing exact unpublished values as a claim requiring its own source. The useful first task is to verify that your current server exposes the expansion, then examine its navigation and upgrade requirements. World 2 expands the existing game rather than replacing the cage-and-pet loop."
+            ]
           }
         ],
         "table": {
@@ -414,6 +491,13 @@
             "paragraphs": [
               "Double-check the game identity, confirm the current server has loaded the latest update, and inspect the game’s navigation or world selection. If the interface still does not display World 2, consult the developer’s current announcement. Do not reset progress based on an unsupported “unlock trick.”"
             ]
+          },
+          {
+            "heading": "A Safe First Visit to the Second World",
+            "paragraphs": [
+              "Before seeking World 2, understand how your current server displays travel and unlock requirements. Move through the hub and progression interface and look for a clearly labeled new-world or galaxy destination. If the option is visible but locked, read the actual requirement instead of assuming a fixed rebirth count or Speed threshold from an outside guide. The published Roblox description confirms World 2 but does not itself define those unlock conditions.",
+              "Once the destination is available, start with a short exploratory run. Identify the return direction, where pet cages can be opened and what the new area calls its bosses and biomes. This approach is particularly useful after a release: a video of an earlier build may contain outdated menu labels or a path that has since moved. Only treat your screen as evidence for the build you are playing."
+            ]
           }
         ]
       },
@@ -433,6 +517,13 @@
             "paragraphs": [
               "Storm and the Black Hole are also officially named. The Black Hole capitalization is part of the developer’s description, not a claim about a special black-hole currency. Use the in-game map to confirm the current placement of either environment."
             ]
+          },
+          {
+            "heading": "Confirmed Names vs. Unverified World 2 Lists",
+            "paragraphs": [
+              "The official Roblox description names Moon, Ocean, Crystal, Shadow, Storm and the Black Hole among the newly themed areas. These are examples, not a verified ordered list of all ten new biomes. A reliable World 2 wiki should distinguish the developer-named environments from additional names inferred by players. We do not assign guessed unlock levels, prices, pet odds or boss drops to any of the six named examples.",
+              "If you want to compare your unlocked locations with public information, start with the names above and then inspect the world menu. You may encounter a different presentation order or a themed area within a bigger world. The term “biome” is used by the creator to describe the combined twenty areas, while “World 2” refers to the expansion as a whole. This distinction makes it easier to understand searches for world 2 pets, world 2 biomes and the Black Hole."
+            ]
           }
         ]
       },
@@ -451,6 +542,20 @@
             "heading": "Relevant Guides",
             "paragraphs": [
               "If you are still learning how to take a cage from a sleeping boss, start with the core stealing walkthrough. For one-off community rewards, the Legendary Pet page covers the developer-announced free offer without confusing it with World 2 pet drops."
+            ]
+          },
+          {
+            "heading": "Planning Upgrades and Returns While Exploring",
+            "paragraphs": [
+              "The game ties movement to rideable pets and treadmill Speed, while pets in the barn generate cash. For a new area, that suggests a practical order: test whether you can return safely, improve movement or cash production when needed, and explore further when your current route feels manageable. It is a general strategy based on confirmed systems, not a claim that a specific boss needs a certain Speed score. A quicker return is only valuable if you know where you are going.",
+              "Rebirth is also mentioned by the developer, including the promise that pets are retained. However, the public summary does not specify every rebirth benefit or the exact state of upgrades after rebirth. Review the live confirmation dialogue before committing. If your interest is a seasonal rather than a permanent area, check the Halloween guide separately; limited events and World 2 exploration should not be confused with each other."
+            ]
+          },
+          {
+            "heading": "New Cages, Meteor Showers and Limited Content",
+            "paragraphs": [
+              "World 2 promotional text references meteor showers that introduce rare cages and a Dinosaur Era Cage with twelve limited pets. These are worth noticing when you enter a current server, but the public description does not provide fixed spawn times, drop probabilities or a complete pet list. Do not build your entire session around an invented “every ten minutes” spawn timer. Watch the in-game event messages and identify the collectible that is currently active.",
+              "The same return-and-open fundamentals apply when a special cage is available: know the safe direction home and avoid assuming a high-value cage is guaranteed. Other announced items, including a second barn and barn skins, affect the progression context but are not interchangeable with a new biome. For step-by-step movement and cage handling, use the separate guide focused on stealing cages rather than this expansion overview."
             ]
           }
         ],
@@ -543,6 +648,20 @@
             "paragraphs": [
               "When you get the cage home, open it to discover a pet. Pets are the intended result of the cage loop; individual pet rarity, cage odds and opening controls are not listed in the public developer description."
             ]
+          },
+          {
+            "heading": "Read the Screen Before You Grab a Cage",
+            "paragraphs": [
+              "Steal A Pet And Ride It describes the first action as taking cages from sleeping bosses. That tells you the objective but not a universal keyboard binding, interaction radius or fixed route. Start by watching the on-screen prompt near the cage and use the control shown for your device. The official experience supports PC, mobile, tablet and console, so a shortcut described for someone else’s controller may not apply to your setup.",
+              "Before committing, look back toward the area that leads home. The developer explicitly warns you to run home before the boss catches you, making escape part of the same objective as obtaining the cage. When learning, focus on recognizing the return direction and maintaining control of your movement rather than trying to optimize a timer or route that has not been established by reliable gameplay evidence."
+            ]
+          },
+          {
+            "heading": "A Repeatable Beginner Checklist",
+            "paragraphs": [
+              "A useful learning checklist has five questions. Are you in the official game? Is the boss in the sleeping state described by the creator? Can you identify the cage interaction prompt? Do you know the way back home? Have you confirmed where you will open the cage afterward? If any answer is unclear, spend a moment observing before taking on a longer run. This checklist is advice for reducing mistakes rather than a hidden game rule.",
+              "After a successful return, check the pet you received and decide how it fits your next attempt. Rideable pets improve movement, barn pets generate cash and the treadmill develops Speed according to Roblox. That means each safe cage return can feed more than one progression system. Repeat this short cycle until it becomes predictable, and only then use the same method when investigating new biomes or special events."
+            ]
           }
         ],
         "steps": [
@@ -576,6 +695,13 @@
             "paragraphs": [
               "Pets in the barn earn cash. The treadmill increases Speed, and upgrades are available for both the treadmill and barn. This gives you a practical cycle: bring home a cage, open it, collect cash and improve your movement or storage before the next trip."
             ]
+          },
+          {
+            "heading": "What a New Pet Changes About the Next Run",
+            "paragraphs": [
+              "The purpose of opening cages is not merely filling a collection. Roblox explains that discovered pets can be ridden and that pets in the barn earn cash. Riding and money support separate needs: travel can become quicker and progression upgrades can become more affordable. If your return trips are the difficult part, compare movement in the current game UI before deciding which pet to ride. If the challenge is accumulating money, check the barn systems that the official description promotes.",
+              "The experience also mentions playing with friends to earn bonus cash. That is another developer-confirmed progression option, although the amount of the bonus is not specified in the public description. Avoid ranking pets by imaginary drop rates or assuming a reward is guaranteed from a particular cage. The useful comparison is between the benefits that your actual inventory and current server display."
+            ]
           }
         ]
       },
@@ -595,6 +721,20 @@
             "paragraphs": [
               "Make sure you are inside the correct game by Snail Riders and look for the sleeping-boss encounter described on its Roblox page. Try exploring another visible area or reviewing any in-game instructions. Avoid external scripts advertised as finding or stealing cages automatically."
             ]
+          },
+          {
+            "heading": "If a Boss Catches You: Recover Systematically",
+            "paragraphs": [
+              "The official game description makes being caught the danger in a cage run but does not publish a precise loss penalty. If you are caught, notice what the game actually displays: did the attempt end, did you keep the cage or were you returned to a different position? Then adjust one thing at a time on the next run. Revisit the route, verify that you recognize the sleeping phase and consider whether additional movement training would help.",
+              "Avoid treating a claimed “safe path” from a different world or an old video as guaranteed. Updates and server variations can change what you see. When an interaction fails, also check that you have approached the correct object and that the game is showing an interaction prompt. This is more practical than trusting fabricated boss timers, hitboxes or invisible safe spots on a new game with little verified mechanical documentation."
+            ]
+          },
+          {
+            "heading": "PC, Mobile, Tablet and Console Controls",
+            "paragraphs": [
+              "Players often search for “how to steal cages on mobile” because touchscreen prompts look different from keyboard controls. The developer confirms these platforms are supported but does not publish an authoritative cross-device button table in the game description. Therefore follow the prompt that appears while playing. A mobile interface might use touch controls while another platform uses a controller button, and game updates can revise those labels.",
+              "If the interaction UI is not visible, move to a clearer position, look for the target cage, confirm the game is fully loaded and check the official game help or controls display. Do not install a script or automation tool to force the action. Once the cage is taken, the key objective is unchanged on every device: return home before the boss catches you, then open the cage to discover the pet."
+            ]
           }
         ]
       },
@@ -607,6 +747,13 @@
             "heading": "Keep Improving Your Route",
             "paragraphs": [
               "On your next attempt, identify your home before approaching a boss, watch the live on-screen interaction prompts, then compare the route home with the one you just used. That is a practical self-check, not an unverified guaranteed exploit."
+            ]
+          },
+          {
+            "heading": "Cage Runs During Updates and World 2",
+            "paragraphs": [
+              "The game now includes two worlds and twenty biomes, plus announced limited content such as meteor-related cages. The fundamental method still begins with a cage, a danger to avoid and a trip home. What varies by current location is the scenery, the available content and potentially the route you must learn. The official source does not supply a universal map of all cage spawn coordinates, so do not expect one route to work across every area.",
+              "For the newly released environments, first read the World 2 guide to understand what is officially confirmed. For Halloween, check the seasonal event page to see what is scheduled and what has not yet been verified in-game. Keep this tutorial as the reference for the core steal-and-escape action rather than treating every seasonal update as a different cage-stealing mechanic."
             ]
           }
         ],
@@ -694,6 +841,20 @@
             "paragraphs": [
               "Return to the correct Roblox game after joining, inspect current in-game notices for the community reward and follow any instructions actually shown there. The official description does not specify whether a separate claim button, rejoin, delay or inventory action is required; those details should not be guessed."
             ]
+          },
+          {
+            "heading": "Start with the Creator, Not a Reward Generator",
+            "paragraphs": [
+              "The official Roblox description for Steal A Pet And Ride It explicitly advertises a free Legendary pet for joining the Snail Riders community. That statement makes the community reward a real player task, but it does not endorse websites promising instant free pets or scripts that alter your account. The safest starting point is the exact Roblox experience linked on this guide, where the developer is shown as Snail Riders.",
+              "From the game page, follow a creator-controlled community destination rather than searching for arbitrary group links. Verify the community name and ownership before joining. Then read any current reward instructions the game provides and return to the official experience to check for the pet. The public description does not reveal every claim-screen control, so using the live instructions is more accurate than inventing button names or pretending the reward appears automatically."
+            ]
+          },
+          {
+            "heading": "What to Check After Joining Snail Riders",
+            "paragraphs": [
+              "Check that you used the community associated with the actual developer rather than a fan-run group with a similar title. Next, check the game itself for a visible reward prompt, inventory change or other instruction. If the reward is not obvious, revisit the creator’s latest announcement and confirm you are playing the correct experience. The community description, game UI and announcement text can change over time, so take their current instructions as authoritative.",
+              "Avoid repeated random actions in the hope of triggering an unknown code. The creator’s published summary states a community-membership requirement; it does not establish a code string, a required purchase or a particular reward NPC position. If an external page demands payment or Roblox account credentials to unlock a supposedly free community item, do not treat it as an official claim method."
+            ]
           }
         ],
         "table": {
@@ -756,6 +917,13 @@
             "paragraphs": [
               "A minimum level, account age, invitation count, exact reward pet name, server rejoin requirement or number of minutes to wait is not specified in the public description. Until verified directly, none of those should be presented as a barrier to claiming."
             ]
+          },
+          {
+            "heading": "What “Free Legendary Pet” Means Here",
+            "paragraphs": [
+              "The advertised free Legendary pet is a creator community incentive for this specific Roblox game. It is not a promise that every stolen cage contains a Legendary or that an unlimited number of Legendary pets can be generated on a third-party website. Normal gameplay provides pets from cages, while this community route has its own stated condition. Keeping those systems separate helps a new player avoid searching for drop odds that have no bearing on joining Snail Riders.",
+              "A common search variant is “how to get free legendary pet in Steal A Pet And Ride It.” The supported answer is to use the developer-linked Snail Riders community and follow current claim instructions. Anything more detailed, such as an exact inventory slot, cooldown or account-age rule, needs fresh in-game or developer evidence before it can be stated as fact. Our page intentionally distinguishes the announced benefit from unverified implementation details."
+            ]
           }
         ]
       },
@@ -774,6 +942,13 @@
             "heading": "Pets from Stolen Cages",
             "paragraphs": [
               "In the regular loop, you take cages from sleeping bosses, run home and open them for pets. Roblox says rare pets can be found this way, but it does not give a complete cage drop table in its public description. The cage guide covers that separate process."
+            ]
+          },
+          {
+            "heading": "The Other Legitimate Way to Build a Pet Collection",
+            "paragraphs": [
+              "Even without the community reward, players can acquire pets by following the game’s main loop: take a cage from a sleeping boss, return home safely and open it. The official description also says that pets can be ridden for speed and can earn cash in your barn. That regular progression gives you a reliable activity while you verify the one-time community benefit. It should not be confused with claims that simply joining any group delivers unlimited high-rarity pets.",
+              "If you are looking for a guaranteed method to force a particular pet rarity, no such mechanism is documented in the publicly accessible developer description. Use the game’s own displayed information for live inventory and rewards. For detailed instruction on the regular route, our cage-stealing guide provides a step-by-step workflow. For expanded content and new pets, our World 2 overview summarizes only the developer-confirmed additions."
             ]
           }
         ],
@@ -805,6 +980,13 @@
             "heading": "Avoid Unverified Redeem Codes",
             "paragraphs": [
               "The published requirement is community membership. This guide does not claim the game has a redeem-code interface, an active pet code or a link to a “pet generator.” Never give Roblox login credentials to unofficial claim pages."
+            ]
+          },
+          {
+            "heading": "Safety Checklist for Community Rewards",
+            "paragraphs": [
+              "A legitimate reward flow should begin from an official Roblox destination and should not require sharing your password, one-time security code or browser session. Be wary of copied community pages and shortened links that hide their destination. Confirm the developer name on the Roblox experience and verify that any community link originates from the creator’s page or another clearly official notice. If the link seems wrong, return to the Roblox listing instead of taking a shortcut from search results.",
+              "Never install a browser extension, executable or Roblox script just to claim the announced community pet. The creator has described community membership, not a third-party download. If the reward still does not appear, use the game’s current support or announcement channels and explain exactly what you did. A missing reward is a troubleshooting question, not proof that a hidden paid redemption code is required."
             ]
           }
         ]
