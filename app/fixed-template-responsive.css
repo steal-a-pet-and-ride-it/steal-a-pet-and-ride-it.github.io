@@ -1,4 +1,3 @@
-/* Yorich modular-wiki: stable, responsive layout for the six approved SEO routes. */
 body[data-fixed-template="modular-wiki"]{min-width:0;overflow-x:clip;background:#2f251a;color:#f8f4e9;font-family:var(--font-sans,system-ui,sans-serif)}
 body[data-fixed-template="modular-wiki"] #main-content,body[data-fixed-template="modular-wiki"] #main-content>div,body[data-fixed-template="modular-wiki"] main,body[data-fixed-template="modular-wiki"] article,body[data-fixed-template="modular-wiki"] section{min-width:0}
 body[data-fixed-template="modular-wiki"] .wrap,body[data-fixed-template="modular-wiki"] .template-inner-main{width:min(1160px,calc(100% - 48px));margin-inline:auto}
