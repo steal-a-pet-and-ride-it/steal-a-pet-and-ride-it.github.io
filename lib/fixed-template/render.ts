@@ -177,4 +177,10 @@ export function scopeTemplateCss(css:string,scope:string):string{
   }return out;
 }
 export function scopedTemplateCss(skin:string,accentColorId?:string|null):string{const {pack,html:home}=templateSource(skin,"home"),{html:inner}=templateSource(skin,"inner"),paint=resolveAccent(pack.skin,accentColorId);const raw=extractStyle(home)+"\\n"+extractStyle(inner)+"\\n"+accentOverrideCss(pack.skin,paint);return scopeTemplateCss(raw,`body[data-fixed-template="${pack.skin}"]`)}
-export function renderFixedDocument(input:FixedTemplateInput):{html:string;body:string;chrome:string;rest:string}{const html=renderFixedTemplate(input),body=extractBody(html),parts=splitFixedChrome(body,templatePack(input.skin).skin);return{html,body,...parts}}
+export function renderFixedDocument(input:FixedTemplateInput):{html:string;body:string;chrome:string;rest:string}{
+  const html=renderFixedTemplate(input),body=extractBody(html),parts=splitFixedChrome(body,templatePack(input.skin).skin);
+  // The generated template already has a demonstration footer. The real Next.js
+  // layout renders the accessible site footer, so do not output a second one.
+  const rest=parts.rest.replace(/<footer\b[^>]*class="[^"]*(?:site-footer|template-inner-footer)[^"]*"[^>]*>[\s\S]*?<\/footer>/g, "");
+  return {html,body,chrome:parts.chrome,rest};
+}
