@@ -1,40 +1,48 @@
 "use client";
 
+import { useState } from "react";
+import { Menu, X } from "lucide-react";
+import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { siteConfig } from "@/config/site";
-import { siteSkin } from "@/config/skin";
 import type { InternalLink } from "@/config/types";
-import { homePage } from "@/content/home";
-import { isFixedTemplate } from "@/lib/fixed-template/mode";
-import { renderFixedDocument } from "@/lib/fixed-template/render";
 import { assetPath, routePath } from "@/lib/urls";
 
 export function FixedTemplateHeader({ links }: { links: InternalLink[] }) {
   const pathname = usePathname() || "/";
-  if (!isFixedTemplate()) return null;
-  const skin = siteSkin();
+  const [open, setOpen] = useState(false);
   const path = pathname.replace(/\/+$/, "") || "/";
-  const page = path === "/" ? "home" : "inner";
-  const currentSlug = page === "inner" ? path.split("/").filter(Boolean).at(-1) ?? "" : "";
-  const nav = links
-    .filter((link) => link.slug.replace(/^\/+|\/+$/g, ""))
-    .map((link) => ({
-      slug: link.slug.replace(/^\/+|\/+$/g, ""),
-      label: link.label,
-      href: routePath(link.slug),
-    }));
-  const rendered = renderFixedDocument({
-    skin,
-    page,
-    accentColorId: siteConfig.theme.accentColorId,
-    gameName: siteConfig.game.name || siteConfig.shortName,
-    nav,
-    currentSlug,
-    homeHref: "/",
-    logoUrl: assetPath(siteConfig.assets.logo),
-    bannerUrl: page === "home" ? assetPath(siteConfig.assets.cover) : null,
-    heading: page === "home" ? homePage.hero.heading : null,
-    lead: page === "home" ? homePage.hero.lead : null,
-  });
-  return <div dangerouslySetInnerHTML={{ __html: rendered.chrome }} />;
+  return (
+    <header className="pet-header">
+      <div className="pet-header-inner">
+        <Link className="pet-brand" href="/" onClick={() => setOpen(false)} aria-label="Steal A Pet And Ride It homepage">
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src={assetPath(siteConfig.assets.logo)} alt="" width={44} height={44} />
+          <strong>{siteConfig.shortName}</strong>
+        </Link>
+        <button
+          className="pet-menu-button"
+          type="button"
+          aria-controls="pet-primary-nav"
+          aria-label={open ? "Close menu" : "Open menu"}
+          aria-expanded={open}
+          onClick={() => setOpen((value) => !value)}
+        >
+          {open ? <X size={22} aria-hidden="true" /> : <Menu size={22} aria-hidden="true" />}
+        </button>
+        <nav id="pet-primary-nav" className={`pet-nav${open ? " is-open" : ""}`} aria-label="Game guides">
+          {links.filter((link) => link.slug !== "/").map((link) => {
+            const href = routePath(link.slug);
+            const target = href.replace(/\/+$/, "") || "/";
+            const current = path === target;
+            return (
+              <Link key={link.slug} href={href} aria-current={current ? "page" : undefined} onClick={() => setOpen(false)}>
+                {link.label}
+              </Link>
+            );
+          })}
+        </nav>
+      </div>
+    </header>
+  );
 }
