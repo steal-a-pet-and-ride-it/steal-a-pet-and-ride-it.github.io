@@ -1,0 +1,66 @@
+/* Limited to the Adsterra units. Existing game guide styles remain unchanged. */
+.adsterra-placement {
+  box-sizing: border-box;
+  color: inherit;
+  text-align: center;
+  isolation: isolate;
+}
+.adsterra-label {
+  display: block;
+  margin-bottom: 7px;
+  color: #b5a999;
+  font: 500 11px/1.4 system-ui, sans-serif;
+  letter-spacing: .035em;
+}
+.adsterra-placement--banner {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(728px, 100vw);
+  max-width: 100vw;
+  margin: 22px 0 28px;
+  overflow: visible;
+}
+.adsterra-placement--banner > .adsterra-creative {
+  display: flex;
+  min-height: 90px;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  margin-inline: auto;
+  overflow: hidden;
+}
+.adsterra-banner-frame {
+  display: block;
+  flex: 0 0 auto;
+  width: 728px;
+  height: 90px;
+  border: 0;
+  background: transparent;
+}
+.adsterra-placement--native {
+  width: 100%;
+  min-width: 0;
+  max-width: 980px;
+  margin: 24px auto 28px;
+  overflow: hidden;
+}
+.adsterra-placement--native > .adsterra-creative {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+body[data-fixed-template="modular-wiki"] .portal-grid > .adsterra-placement--native {
+  grid-column: 1 / -1;
+  max-width: 100%;
+  margin: 12px 0 8px;
+}
+body[data-fixed-template="modular-wiki"] .template-inner-article > .adsterra-placement--banner {
+  margin-top: 24px;
+  margin-bottom: 28px;
+}
+@media (max-width: 767px) {
+  .adsterra-placement--banner { width: min(320px, 100vw); margin-top: 18px; margin-bottom: 24px; }
+  .adsterra-placement--banner > .adsterra-creative { min-height: 50px; }
+  .adsterra-banner-frame { width: 320px; height: 50px; }
+  .adsterra-placement--native { margin: 18px auto 22px; }
+}
