@@ -1,10 +1,10 @@
-import { NativeAdSlot } from "@/components/integrations/native-ad-slot";
 import { JsonLd } from "@/components/site/json-ld";
 import { siteConfig } from "@/config/site";
 import { siteSkin } from "@/config/skin";
 import type { SeoPageDefinition } from "@/config/types";
 import { enabledLegalPages, getRelatedPages, visibleCorePages } from "@/content/registry";
 import { esc, renderFixedDocument } from "@/lib/fixed-template/render";
+import { adsterraBannerMarkup, adsterraNativeMarkup } from "@/lib/adsterra-markup";
 import { pageSchemas } from "@/lib/schema";
 import { assetPath, routePath } from "@/lib/urls";
 
@@ -51,11 +51,24 @@ export function FixedTemplateInner({ page }: { page: SeoPageDefinition }) {
     lead: page.hero.lead,
     articleHtml: articleInner(page),
   });
+  // Entire title, answer and review date precede the responsive Banner.
+  // Native follows the first complete guide section without changing text.
+  const withBanner = rendered.rest.replace(
+    /(<p class="guide-review">[\s\S]*?<\/p>)/,
+    `$1${adsterraBannerMarkup}`,
+  );
+  const withNative = withBanner.replace(
+    /(<section\b[^>]*class="guide-content"[^>]*>[\s\S]*?<\/section>)/,
+    `$1${adsterraNativeMarkup}`,
+  );
+  if (withBanner === rendered.rest || withNative === withBanner) {
+    throw new Error("Expected inner-page advertisement mount blocks were not found");
+  }
+
   return (
     <>
       <JsonLd data={pageSchemas(page)} />
-      <div dangerouslySetInnerHTML={{ __html: rendered.rest }} />
-      <div className="site-container"><NativeAdSlot /></div>
+      <div dangerouslySetInnerHTML={{ __html: withNative }} />
     </>
   );
 }
