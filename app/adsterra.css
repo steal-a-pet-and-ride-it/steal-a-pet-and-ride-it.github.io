@@ -64,3 +64,15 @@ body[data-fixed-template="modular-wiki"] .template-inner-article > .adsterra-pla
   .adsterra-banner-frame { width: 320px; height: 50px; }
   .adsterra-placement--native { margin: 18px auto 22px; }
 }
+
+/* Prevent long game-info tables from widening the single-column layout when
+   the Native unit is placed between the summary cards and guide content. */
+@media (max-width: 800px) {
+  body[data-fixed-template="modular-wiki"] .portal-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  body[data-fixed-template="modular-wiki"] .portal-grid > .guide-supplement {
+    min-width: 0;
+    max-width: 100%;
+  }
+}
