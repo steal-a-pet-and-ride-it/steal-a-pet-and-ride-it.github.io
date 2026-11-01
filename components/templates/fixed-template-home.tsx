@@ -1,4 +1,3 @@
-import { NativeAdSlot } from "@/components/integrations/native-ad-slot";
 import { Faq } from "@/components/site/faq";
 import { JsonLd } from "@/components/site/json-ld";
 import { siteConfig } from "@/config/site";
@@ -6,6 +5,7 @@ import { siteSkin } from "@/config/skin";
 import type { HomePageDefinition, InternalLink } from "@/config/types";
 import { visibleCorePages } from "@/content/registry";
 import { esc, renderFixedDocument } from "@/lib/fixed-template/render";
+import { adsterraBannerMarkup, adsterraNativeMarkup } from "@/lib/adsterra-markup";
 import { homeSchemas } from "@/lib/schema";
 import { assetPath, routePath } from "@/lib/urls";
 
@@ -50,11 +50,24 @@ export function FixedTemplateHome({ home }: { home: HomePageDefinition }) {
     actionHref: siteConfig.game.officialUrl,
     supplementHtml: supplement(home),
   });
+  // Preserve the complete Hero and both original guide modules.
+  // Mount the two ad markers between complete semantic blocks.
+  const withBanner = rendered.rest.replace(
+    /(<\/section>\s*)(<main\b)/,
+    `$1${adsterraBannerMarkup}$2`,
+  );
+  const withNative = withBanner.replace(
+    /(<\/aside>\s*)(<div class="guide-supplement">)/,
+    `$1${adsterraNativeMarkup}$2`,
+  );
+  if (withBanner === rendered.rest || withNative === withBanner) {
+    throw new Error("Expected home advertisement mount blocks were not found");
+  }
+
   return (
     <>
       <JsonLd data={homeSchemas(home)} />
-      <div dangerouslySetInnerHTML={{ __html: rendered.rest }} />
-      <div className="site-container"><NativeAdSlot /></div>
+      <div dangerouslySetInnerHTML={{ __html: withNative }} />
       {home.faq.length ? (
         <div className="site-container"><Faq items={home.faq} /></div>
       ) : null}
