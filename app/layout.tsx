@@ -1,5 +1,6 @@
 import type { CSSProperties, ReactNode } from "react";
 import { Analytics } from "@/components/integrations/analytics";
+import { AdsterraManager } from "@/components/integrations/adsterra-manager";
 import { SiteFooter } from "@/components/site/site-footer";
 import { SiteHeader } from "@/components/site/site-header";
 import { siteConfig } from "@/config/site";
@@ -11,6 +12,7 @@ import { fontFaceCss } from "@/lib/fonts";
 import { rootMetadata } from "@/lib/seo";
 import "./globals.css";
 import "./fixed-template-responsive.css";
+import "./adsterra.css";
 
 export const metadata = rootMetadata();
 
@@ -47,6 +49,7 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
         <SiteHeader links={navLinks} />
         <div id="main-content">{children}</div>
         <SiteFooter coreLinks={navLinks} legalLinks={legalLinks} />
+        <AdsterraManager />
       </body>
     </html>
   );
